@@ -1,0 +1,154 @@
+(ExpressProject "SmartDesk"
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library"
+      (File
+         "d:\electronics\home ee\homey clock\lovely_clock\clock_components.olb"
+        (Type "Schematic Library"))
+      (File "d:\electronics\home ee\funcgen\signal generator anal\library1.olb"
+        (Type "Schematic Library"))
+      (File "d:\electronics\home ee\bob dishes\schematics\library1.olb"
+        (Type "Schematic Library")))
+    (NoModify)
+    (File ".\smartdesk.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x"))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector
+    (LN03402
+      (FullPartName "LN03402.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (BNC
+      (FullPartName "BNC.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (BCM25335
+      (FullPartName "BCM25335.Normal")
+      (LibraryName
+         "D:\ELECTRONICS\HOME EE\HOMEY CLOCK\LOVELY_CLOCK\CLOCK_COMPONENTS.OLB")
+      (DeviceIndex "0"))
+    (DS1302
+      (FullPartName "DS1302.Normal")
+      (LibraryName
+         "D:\ELECTRONICS\HOME EE\HOMEY CLOCK\LOVELY_CLOCK\CLOCK_COMPONENTS.OLB")
+      (DeviceIndex "0"))
+    (SN74HC597
+      (FullPartName "SN74HC597.Normal")
+      (LibraryName
+         "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\SHIFTREGISTER.OLB")
+      (DeviceIndex "0"))
+    (SN74120
+      (FullPartName "SN74120.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\MISC3.OLB")
+      (DeviceIndex "0"))
+    (X9C104P
+      (FullPartName "X9C104P.Normal")
+      (LibraryName
+         "D:\ELECTRONICS\HOME EE\HOMEY CLOCK\LOVELY_CLOCK\CLOCK_COMPONENTS.OLB")
+      (DeviceIndex "0"))
+    (LM358
+      (FullPartName "LM358.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (CA324
+      (FullPartName "CA324.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\OPAMP.OLB")
+      (DeviceIndex "0"))
+    (ZVP4424/TO
+      (FullPartName "ZVP4424/TO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\TRANSISTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN RCPT 6"
+      (FullPartName "CONN RCPT 6.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CONN PWR 5-R"
+      (FullPartName "CONN PWR 5-R.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON3
+      (FullPartName "CON3.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (CON2
+      (FullPartName "CON2.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("CAP NP"
+      (FullPartName "CAP NP.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (C
+      (FullPartName "C.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LM386
+      (FullPartName "LM386.Normal")
+      (LibraryName
+         "D:\ELECTRONICS\HOME EE\HOMEY CLOCK\LOVELY_CLOCK\CLOCK_COMPONENTS.OLB")
+      (DeviceIndex "0"))
+    ("PHONEJACK STEREO"
+      (FullPartName "PHONEJACK STEREO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    ("PHONE JACK-O"
+      (FullPartName "PHONE JACK-O.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CONNECTOR.OLB")
+      (DeviceIndex "0"))
+    (GND
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\CAPSYM.OLB")
+      (DeviceIndex "0"))
+    (POT
+      (FullPartName "POT.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (LCD_16X2
+      (FullPartName "LCD_16X2.Normal")
+      (LibraryName
+         "D:\ELECTRONICS\HOME EE\HOMEY CLOCK\LOVELY_CLOCK\CLOCK_COMPONENTS.OLB")
+      (DeviceIndex "0"))
+    (LM7805/TO
+      (FullPartName "LM7805/TO.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\REGULATOR.OLB")
+      (DeviceIndex "0"))
+    (RESISTOR
+      (FullPartName "RESISTOR.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0"))
+    (DIODE
+      (FullPartName "DIODE.Normal")
+      (LibraryName "C:\CADENCE\SPB_17.2\TOOLS\CAPTURE\LIBRARY\DISCRETE.OLB")
+      (DeviceIndex "0")))
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources"
+         "c:\users\mx\google drive\home projects\workbench+\schem\smartdesk.dsn")
+      (Path "Design Resources"
+         "c:\users\mx\google drive\home projects\workbench+\schem\smartdesk.dsn"
+         "SCHEMATIC1")
+      (Path "Design Resources" "Library")
+      (Select "Design Resources" "Library"
+         "d:\electronics\home ee\homey clock\lovely_clock\clock_components.olb"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -31 0 200 0 428"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -31 52 1688 52 511")
+        (Scroll "-196 94")
+        (Zoom "57")
+        (Occurrence "/"))
+      (Path
+         "C:\USERS\MX\GOOGLE DRIVE\HOME PROJECTS\WORKBENCH+\SCHEM\SMARTDESK.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1")))
+  (LastUsedLibraryBrowseDirectory "C:\Cadence\SPB_17.2\tools\capture\library"))
